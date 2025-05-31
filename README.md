@@ -35,11 +35,6 @@ Key Features:
 
 **Node version 18.17 or later**
 
-### Cloning the Repository
-
-```shell
-git clone https://github.com/nayak-nirmalya/twitch-clone.git
-```
 
 ### Install Packages
 
